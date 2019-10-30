@@ -92,7 +92,7 @@ Chen(主) was(谓) a leading figure(宾) in the Xinhai Revolution(介短a2) that
 
 Expelled from the Communist Party in 1929, he was **for a time** the leader of China's small **Trotskyist movement**.
 
-Chen's **ancestral home(祖籍)** was in Anqing,Anhui,where he established the influential vernacular Chinese periodical(白话文) New Youth(Xin Qingnian)		主 谓 宾  +a3
+Chen's **ancestral home(祖籍)** was in Anqing,Anhui,where he established the influential **vernacular Chinese periodical**(期刊)(**白话文**) New Youth(Xin Qingnian)		主 谓 宾  +a3
 
 
 
@@ -100,7 +100,7 @@ Chen's **ancestral home(祖籍)** was in Anqing,Anhui,where he established the i
 
 红色在中国流行的另一个原因是人们把它与中国革命和**共产党**相联系.
 
-The other reason why red is popular in China is that people associate it with Chinese Revolution and Cummist Party of China.
+The other reason why red is popular in China is that people associate/link / connect it with Chinese Revolution and Commuist Party of China.
 
 在过去的一千年里,乌镇的水系和生活方式并未经历多少变化,是一座展现古文明的博物馆
 
@@ -108,13 +108,13 @@ S(Wuzhen)  a3	V(is)	O(a museum)	a3
 
 Wuzhen,whose water system and living style haven't changed so much in the past one thousand years,is a museum that shows ancient civilization.
 
-Countless(Numerous) 	spacious(capacious) and beautiful houseyards(courtyards) are hidden among the houses,which gives the tourists amazing discovery everywhere they go.
+Countless(Numerous) 	spacious(capacious) and beautiful houseyards(courtyards) are hidden among the houses,which gives the tourists amazing discoveries everywhere they go.
 
 ## 四级翻译三:功夫
 
 ​	功夫(Kung Fu)是中国武术(martial art)的俗称.	
 
-Chinese martial art **is commonly known as** Kunf Fu.		俗称不需要翻译成名字
+Chinese martial arts **is commonly known as** Kunf Fu.		俗称不需要翻译成名字
 
 ​	**中英文的词性是不需要完全对等的**
 
@@ -136,7 +136,7 @@ It  has **gradually**  **evolved**  **into** a unique element of Chinese culture
 
 有些风格模仿的动物的动作,还有一些则收到了中国哲学思想,神话和传说的启发.
 
-Some styles imitate the movements of animals, while some others are **enlighted**  by(from) the chinese philosophy and **myths** and **legends**. 
+Some styles imitate the movements of animals, while some others are **enlighted**  by(from) the chinese philosophy , **myths** and **legends**. 
 
 
 
@@ -144,11 +144,11 @@ Some styles imitate the movements of animals, while some others are **enlighted*
 
 ​	大熊猫(giant panda) 是一种温顺的动物,仗着独特的黑白皮毛.
 
-Giant panda is a **docile** animal,w**ith its unique fur dotted with**  black and white **patches**.(一块一块的斑点,小块) 
+Giant panda is a **docile** animal,**with its unique fur dotted with**  black and white **patches**.(一块一块的斑点,小块) 
 
-​	因其数量稀少,大熊猫已被列为濒危物种.
+​	因其数量稀少,大熊猫已被列为濒危**物种**.
 
-It has been listed **as** endangered  species, due to its rarity (limited number).
+It has been listed **as** endangered  **species**, **due to** its **rarity** (limited number).
 
 ​	大熊猫对于世界自然基金会有着特殊的意义.
 
@@ -158,9 +158,9 @@ Giant panda has special meaning to WWF
 
 It has been WWF's emblem(symbol) since its founding in 1962.
 
-​	大熊猫是熊科中最稀有的成员,主要生活在中国西南部的森林里
+​	大熊猫是**熊科**中**最稀有**的成员,主要生活在中国西南部的森林里
 
-Giant panda is the rarest member of bears who mainly lives in the southwest of forests in China.
+Giant panda is the **rarest** member of **bears** who mainly lives in the southwest of forests in China.
 
 
 
@@ -168,13 +168,13 @@ Giant panda is the rarest member of bears who mainly lives in the southwest of f
 
 There are about 1000 giant pandas in the world at present.
 
-​	这些以竹为食的动物正面临许多威胁.
+​	这些**以竹为食**的动物**正面临**许多威胁.
 
-The animals that feed on bamboos, are facing many threats.
+The animals that **feed on bamboos**, **are facing** many threats.
 
 ​	因此,确保大熊猫的生存比以往更重要.
 
-Therefore,it is more important than ever to ensure the survial of giant pandas.	
+Therefore,**it is** more **important** than ever **to** ensure the **survial** of giant pandas.	
 
 (**形式主语**  主语过长)	it is  adj/noun  to do /that 从句
 
@@ -210,7 +210,7 @@ Therefore ,they are willing to sacrifice their time,beloved things(hobbies) and 
 
 ​	云南省的丽江古镇是中国著名的旅游目的地之一,那里的生活节奏比大多数中国城市都要缓慢
 
-​	Lijiang,an ancient town in Yunnan Province , is  one of the famous chinese tourist destinations(site) ,
+​	Lijiang,an ancient town in Yunnan Province , is  one of the famous chinese tourist destinations(sites) ,
 
 **where** **the pace of life**  is  slower than most chinese cities.
 
@@ -218,7 +218,7 @@ Therefore ,they are willing to sacrifice their time,beloved things(hobbies) and 
 
 There are beautiful natural sights/scenery everywhere in Lijiang,
 
-where visitors are able to enjoy **plentiful and diversified** cultures produced by the great amount of ethnic minorities in Lijiang.
+where visitors are able to enjoy **plentiful and diversified** cultures produced by the great amount of **ethnic minorities** in Lijiang.
 
 where numerous ethnic minorities provide kinds of **colorful** cultures for tourists to experience.
 
@@ -226,7 +226,7 @@ where numerous ethnic minorities provide kinds of **colorful** cultures for tour
 
 历史上,丽江还以"爱之城"而闻名.当地人中流传着许多关于因爱而生,因爱而死的故事.
 
-**Historically**,Lijiang is also **renowned (famous**) as the City if Love where many stories about **living or dying for love** are spread **among** the local people.
+**Historically**,Lijiang is also **renowned (famous**) as the City of Love where many stories about **living or dying for love** are spread **among** the local people.
 
 如今,在中外游客眼中,这个古镇**被视为**爱情和浪漫的天堂.	paradise  理想中的天堂   heaven  真正的天堂
 
@@ -250,21 +250,35 @@ Besides,the fund has also **been used for** purchasing music **instruments** and
 
  一些为接受更好教育而转往城市上学的学生如今又回到本地农村学校就读.
 
-Some of the children who transfered to cities for better education are returning to local schools.
+Some of the children who **transfered to** cities for better education are returning to local schools.
 
 
 
 ## 核能
 
-​	中国进一步发展核能,因为喝点目前只占其总发电量的2%.
+​	中国进一步发展核能,因为核电目前只占其总发电量的2%.
 
-​	该比例在所有核郭嘉中居第30位,几乎是最低的.
+​	China further develops nuclear power **as** it accounts for / takes up / occupies only 2% of Chinese total generating capacity.
 
-​	2011年3月日本核电站事故后,中国的核能开发停了下来,终止审批新的核电站,并开展全国性的核安全检查.
+​	该比例在所有核国家中居第30位,几乎是最低的.
 
-​	到2012年10月,审批才又开始谨慎地恢复.
+​	The proportion is ranking the 30th in the world ,which is almost the lowest.
+
+​	2011年3月日本**核电站**事故后,中国的核能**开发**停了下来,终止审批新的核电站,并开展全国性的核安全检查.
+
+​	The Chinese nuclear power **exploitation** was stopped after the accident of Japanese **nuclear power plant** in March 2011.
+
+​	China stopped approving New nuclear power plant and **carried out / conducted** national nuclear energy safety check.
+
+​	到2012年10月,审批才又开始**谨慎地恢复**.
+
+​	It was not until October 2012 that the approval was **prudently** **resumed**/restored.
 
 ​	随着技术和安全措施的改进,发生事故的可能性完全降低到最低程度.换句话说,核能是可以安全发开和利用的.
+
+**As** techonology and safety measures improved,the possibility of nuclear energy accident can be minimized.
+
+In other words, nuclear energy can be exploitated/developed and used safely.
 
 ## **明朝**		clueless	懵逼
 
@@ -280,9 +294,9 @@ During this period, handcraft **promoted / facilitated / improved / boosted / en
 
 **A great variety of**  commodities including wine/**liquor**/alcohol and **silk** also were sold(**traded**) at the market.
 
-同时,还进口许多国外商品,例如钟和**烟草**. 				**tabocco**
+同时,还进口许多国外商品,例如钟和**烟草**. 				**tobaccos**
 
-Meanwhile,a lot of foreign commoditied were also imported such as clocks and taboccos
+Meanwhile,a lot of foreign commodities were also imported such as clocks and tobaccos
 
 北京,南京,扬州,苏州这样的**大商业中心**相继形成.
 
@@ -290,11 +304,11 @@ The huge **commercial hubs** /business centers  such as Beijing,Nanjing,Yangzhu 
 
 也是在明代,由郑和率领的**船队**曾到印度洋进行了其次大规模探险航行.	**fleets** 
 
-It was also in the Ming Dynasty that the fleets **led by** ZhenHe went on seven big scale adventurous expedition to the Indian Ocean 
+It was also in the Ming Dynasty that the fleets **led by** ZhenHe went on seven large scale of adventurous expedition to the Indian Ocean 
 
-还值得一提的是,中国文学的四大经典名著有三部写于明朝.
+还**值得一提**的是,中国文学的四大经典名著有三部写于明朝.
 
-It is also worth mentioning that three of Four Great Book of China/Four Masterpieces of China were written in the Ming Dynasty.
+It is also **worth mentioning** / **noteworthy** that three of Four Great Classical Books of China/Four Masterpieces of China were written in the Ming Dynasty.
 
 四大名著: four great classical books  
 
